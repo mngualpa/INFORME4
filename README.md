@@ -83,6 +83,7 @@ las fuentes de corriente igualadas a cero equivalen a un circuito abierto.
 7. CONCLUSIONES
 
 * Los valores obtenidos analpiticamente tanto de los voltajes como de las corrientes eran similares a los obtenidos en la simulación, sin embargo, observamos que estos datos tuvieron unos pequeños márgenes de error. 
+* El uso y aplicación del teorema de superposición es de gran efectividad cuando hallamos más de dos fuentes de voltaje (o corriente) presentes en nuestro circuito electróncico y queremos calcular la intensidad que fluye en algun elemento en especifico.
 
 8. BIBLIOGRAFÍA
 
