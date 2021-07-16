@@ -36,7 +36,11 @@ las fuentes de corriente igualadas a cero equivalen a un circuito abierto.
 
 
 5. PROCEDIMIENTO
-
+5.1 Arme el circuito que se presenta en la figura 4.1.
+5.2 Con las dos fuentes conectadas, mida el voltaje VA y la corriente Ix, respetando la polaridad del voltaje como el sentido de la corriente que se proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.
+5.3 Haga "cero" la fuente de voltaje de 12 V (V2) y mida el voltaje VA y la corriente Ix, respetando la polaridad del voltaje como el sentido de la corriente que se proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.
+5.4 Haga "cero" la fuente de voltaje de 20 V (V1) y mida el voltaje VA y la corriente Ix, respetando la polaridad del voltaje como el sentido de la corriente que se proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.
+5.5 Verifique el cumplimiento del Teorema de Superposición y compare los resultados obtenidos prácticamente con los obtenidos analíticamente. Realice sus conclusiones.
 
 6. VIDEO
 
