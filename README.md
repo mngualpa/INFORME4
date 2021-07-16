@@ -31,8 +31,13 @@ con varias fuentes, es el Teorema de Superposición que establece que:
 sumando algebraicamente todos los voltajes o corrientes individuales generados por
 cada fuente actuando por sí sola, con todas las demás fuentes igualadas a cero.***
 
-Las fuentes de voltaje igualadas a cero equivalen a un corto circuito, mientras que
-las fuentes de corriente igualadas a cero equivalen a un circuito abierto.
+**Las fuentes de voltaje igualadas a cero equivalen a un corto circuito**
+
+<img src="Img/fuentevoltaje.png">
+
+**Las fuentes de corriente igualadas a cero equivalen a un circuito abierto**
+
+<img src="Img/fuentecorriente.png">
 
 4. MATERIAL Y EQUIPO
 
