@@ -108,6 +108,7 @@ Finalmente,se encuentra la suma algebraica de cada corriente de rama y voltaje d
 
 6. VIDEO
 
+https://youtu.be/Su5SQCv56ak
 
 7. CONCLUSIONES
 
