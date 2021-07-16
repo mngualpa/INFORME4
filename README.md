@@ -39,6 +39,30 @@ cada fuente actuando por sí sola, con todas las demás fuentes igualadas a cero
 
 <img src="Img/fuentecorriente.png">
 
+
+* **PASOS**
+
+1) ***Identificar las Fuentes independientes***
+
+Primero hay que identificar todas las fuentes independientes del circuito
+
+2) ***Escoge una fuente y “apaga” las demás***
+
+Cada que escojas una fuente para analizar deberás “apagar” todas las demás. Las fuentes de corriente se abren y fuentes de voltaje se cortocircuitan, menos la fuente que estará considerando en los próximos pasos.
+
+3) ***Calcula el voltaje y la corriente***
+
+Encuentra la corriente en cada rama y el voltaje en cada nodo, se puede usar cualquier método.
+
+4) ***Repita los dos pasos anteriores para cada fuente independiente***
+
+Se repide tomando en cuenta el número de fuentes independientes del circuito
+
+5) ***Realiza la sumatoria***
+
+Finalmente,se encuentra la suma algebraica de cada corriente de rama y voltaje de nodo de las corrientes y voltajes individuales anteriores
+
+
 4. MATERIAL Y EQUIPO
 
 * 4.1 TABLA
