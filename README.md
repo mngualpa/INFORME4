@@ -105,6 +105,27 @@ Finalmente,se encuentra la suma algebraica de cada corriente de rama y voltaje d
 
 * **5.5 Verifique el cumplimiento del Teorema de Superposición y compare los resultados obtenidos prácticamente con los obtenidos analíticamente. Realice sus conclusiones.**
 
+Solución del circuito con el método de superposición en el voltaje de 12 V
+![c1](https://user-images.githubusercontent.com/84453557/125890753-dbd6eed7-2ecc-4b99-8b1b-7aaa7e20dab0.png)
+![c2](https://user-images.githubusercontent.com/84453557/125890756-f1203e4c-ee92-47ed-a7a6-4dc24303fd1e.png)
+![c3](https://user-images.githubusercontent.com/84453557/125890762-b6b2150d-2a9c-482c-be81-b9f932dcf829.png)
+
+
+Solución del circuito con el método de superposición en el voltaje de 20 V
+
+![c4](https://user-images.githubusercontent.com/84453557/125890783-360ca5f3-c86e-42a4-8628-8bea23920b3e.png)
+![c5](https://user-images.githubusercontent.com/84453557/125890784-12b293fc-db3b-4c64-8357-434ce0a96277.png)
+![c6](https://user-images.githubusercontent.com/84453557/125890785-c4700621-8b62-42a1-9ca3-f658b7d1f6ab.png)
+
+
+Tabla 4.1: Medición de voltaje aplicando superposición
+
+![c7](https://user-images.githubusercontent.com/84453557/125890739-91121802-149b-4c63-9afe-14389c4007db.png)
+
+Tabla 4.2: Medición de corriente aplicando superposición
+
+![c8](https://user-images.githubusercontent.com/84453557/125890744-0b3abf68-d5c2-4b51-8d09-287b932f67d6.png)
+
 
 6. VIDEO
 
