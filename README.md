@@ -1,6 +1,8 @@
 # INFORME4
 Teorema de superposición 
 
+<img src="Img/LOGO.png">
+
 1. OBJETIVOS
 * 1.1 OBJETIVO GENERAL
 
@@ -33,6 +35,7 @@ las fuentes de corriente igualadas a cero equivalen a un circuito abierto.
 
 4. MATERIAL Y EQUIPO
 
+* 4.1 TABLA
 
 | Cantidad  | Elemento  | 
 | --------- | --------- | 
@@ -44,7 +47,11 @@ las fuentes de corriente igualadas a cero equivalen a un circuito abierto.
 | 1 |	Resistor de 470 Ω |
 | 1 |	Protoboard |
 
+* 4.2 CIRCUITO
+<img src="Img/figuracircuito.jpg">
+
 5.   PROCEDIMIENTO
+
 * **5.1 Arme el circuito que se presenta en la figura 4.1.**
 
 
