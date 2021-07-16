@@ -77,4 +77,4 @@ las fuentes de corriente igualadas a cero equivalen a un circuito abierto.
 8. BIBLIOGRAFÍA
 
 * Bobinando, (2020) [Video] *Recuperado de:* https://www.youtube.com/watch?v=AsjT9jO8new&feature=youtu.be
-* Alulema D., (2021) "Guias Segundo Pacial" *Recuperado de: https://drive.google.com/file/d/1z279bqKwrITuVkpiTGvmhvx0uP6dU0IK/view* 
+* Alulema D., (2021) "Guias Segundo Pacial" *Recuperado de:* https://drive.google.com/file/d/1z279bqKwrITuVkpiTGvmhvx0uP6dU0IK/view
