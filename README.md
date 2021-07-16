@@ -1,8 +1,9 @@
 # INFORME4
-Teorema de superposición 
+
 
 <img src="Img/LOGO.png">
 
+## **TEOREMA DE SUPERPOSICIÓN** 
 1. OBJETIVOS
 * 1.1 OBJETIVO GENERAL
 
